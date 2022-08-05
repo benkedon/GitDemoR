@@ -11,4 +11,5 @@ print(z)
 
 # Add another line
 beta <- x + y
+gamma <- beta + z
 print(beta)
