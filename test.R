@@ -9,4 +9,6 @@ print(y)
 z <- c(7,8,9)
 print(z)
 
-#
+# Add another line
+beta <- x + y
+print(beta)
