@@ -6,8 +6,6 @@ print(x)
 y <- c(4,5,6)
 print(y)
 
-z <- c(7,8,9)
-print(z)
 
 # Add another line
 beta <- x + y
