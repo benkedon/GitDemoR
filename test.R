@@ -13,8 +13,8 @@ d <- c("t", "h", "e")
 beta <- x + y
 print(beta)
 
-# Added yet another line
-new_var <- 100
-
 # change to branch 1 then to main
 dd <- 10
+
+# Another addition
+yy <- 75
