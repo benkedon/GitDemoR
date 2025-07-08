@@ -12,3 +12,6 @@ d <- c("t", "h", "e")
 # Add another line
 beta <- x + y
 print(beta)
+
+# A yet another line
+new_var <- 100
