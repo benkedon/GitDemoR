@@ -20,3 +20,8 @@ dd <- 10
 yy <- 75
 
 # New change on 7/29/2025
+<<<<<<< HEAD
+=======
+
+# Another new comment
+>>>>>>> branch_1
