@@ -19,3 +19,6 @@ yy <- 75
 
 
 # New line
+
+# adding a new variable
+x <- 10
