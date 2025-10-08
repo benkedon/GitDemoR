@@ -24,3 +24,5 @@ yy <- 75
 
 
 # New line
+
+new_variable <- 1000
